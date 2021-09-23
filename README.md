@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Pingsheng-Kevin
-- 👀 I’m interested in
+- 👀 I’m interested in:
 Everything about the brain
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
 Reinforcement learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on :
 Neuro-technology & AI & Computational Neuroscience
-- 📫 How to reach me 
+- 📫 How to reach me :
 pingsheng.li@mail.mcgill.ca
 
 <!---
