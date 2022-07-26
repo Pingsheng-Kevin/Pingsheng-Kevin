@@ -2,7 +2,7 @@
 - 👀 I’m interested in:
 Everything about the brain
 - 🌱 I’m currently learning:
-Reinforcement learning
+Unity
 - 💞️ I’m looking to collaborate on :
 Neuro-technology & AI & Computational Neuroscience
 - 📫 How to reach me :
